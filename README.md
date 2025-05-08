@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP Project with Groq LLM Integration
 
 This project implements a Model-Controller-Presenter (MCP) architecture pattern with Groq LLM integration.
@@ -47,3 +48,6 @@ uvicorn main:app --reload
 - FastAPI backend
 - Environment-based configuration
 - Modular and extensible design
+=======
+# Weather-AI-Assistant-with-Groq-LLM
+>>>>>>> ddfccf9269a293e86184f1ec0ab83aa7fcfe2f23
